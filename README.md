@@ -23,7 +23,8 @@
 4. Add code to the Program.fs file as described in the https://suave.io/ section titled "The simplest possible application: Hello World!".  
     a. Add ```open Suave```  
     b. Add to the main function: ```startWebServer defaultConfig (Successful.OK "Hello World!")```  
-5. Start the web server using the CLI command ```dotnet run -c Release```  
+5. Start the web server using this CLI command:  
+    &nbsp;&nbsp;&nbsp;&nbsp; ```dotnet run -c Release```  
     You should see this output:  
     ```[11:38:29 INF] Smooth! Suave listener started in 86.523 with binding 127.0.0.1:8080```  
 
