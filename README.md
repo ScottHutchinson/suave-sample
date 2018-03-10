@@ -2,8 +2,8 @@
 
 ## Steps to re-create this project from scratch
 
-1. Create a dotnet core console project using the CLI command 
-        dotnet new console -lang F#
+1. Create a dotnet core console project using this CLI command:  
+    &nbsp;&nbsp;&nbsp;&nbsp;```dotnet new console -lang F#```  
 
 2. Install paket to the project.  
     a. If you haven't already, install the Ionide-Paket extension for VS Code.  
